@@ -65,7 +65,7 @@ function About() {
                     This word counter software works in any web browsers such as Chrome, Firefox, Intermet Explorer, Safari, Opera. It suits to count characters in facebook, blog, books, excel docuent, pdf document, essays, etc,
                 </div>
                 </div>
-            </div>
+            </div> 
             </div>
             <div className='container my-3'>
                 <button onClick={toggleStyle} type="button" className="btn btn-primary">{btntext}</button>
